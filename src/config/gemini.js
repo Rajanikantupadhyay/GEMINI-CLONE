@@ -6,7 +6,6 @@ import {
   
   const MODEL_NAME = "gemini-1.0-pro";
   
-  // Paste Your API KEY Below
   const API_KEY = "AIzaSyBYrz_RrNBpjDQTHV1c52_SxnvyQp8rG8k";
   
   async function runChat(prompt) {
